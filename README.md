@@ -14,5 +14,5 @@ Face recognition on an image: based on the images registered in the database, TT
 
 ### Face recognition example
 <p align="center">
-<img src="Readme_images/TTT_v1_face_recognition_example.png" width="700"></p>
+<img src="Readme_images/TTT_v1_face_recognition_example.png" width="550"></p>
 </p>
