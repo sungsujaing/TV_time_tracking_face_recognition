@@ -16,7 +16,7 @@ Multi-face recognition on an image: based on the images stored in the database, 
 
 ### Differentiating registered (red) from unregistered (blue) faces
 <p align="center">
-<img src="Readme_images/TTT_v2_not_registered_example.png" width="550"></p>
+<img src="Readme_images/TTT_v2_not_registered_example.png" width="500"></p>
 </p>
 
 ---
@@ -36,10 +36,10 @@ Single face recognition on an image: based on the images registered in the datab
 
 ### Face recognition example
 <p align="center">
-<img src="Readme_images/TTT_v1_face_recognition_example.png" width="550"></p>
+<img src="Readme_images/TTT_v1_face_recognition_example.png" width="500"></p>
 </p>
 
 ### Limitation of TTT_v1: unable to detect/recognize multiple faces
 <p align="center">
-<img src="Readme_images/TTT_v1_face_recognition_example.png" width="550"></p>
+<img src="Readme_images/TTT_v1_face_recognition_fail_example.png" width="500"></p>
 </p>
