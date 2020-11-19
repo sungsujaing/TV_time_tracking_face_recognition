@@ -15,7 +15,7 @@ Multi-face recognition on a video: based on the images stored in the database, T
 
 ### TTT_v3 video face recognition example
 <p align="center">
-<img src="Readme_images/TTT_v3_sean_test.gif" width="60%">
+<img src="Readme_images/TTT_v3_sean_test.gif" width="35%">
 </p>
 <p align="center">
 <img src="Readme_images/TTT_v3_sean_test_result.png" width="100%">
